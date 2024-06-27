@@ -55,7 +55,7 @@ Create a table that breaks down school performance based on average spending ran
 
 Use pd.cut to categorize spending based on the bins.
 
-Use the scores to create a DataFrame called <spending_summary>.
+Use the scores to create a DataFrame called spending_summary.
 
 Include the following metrics in the table:
 
